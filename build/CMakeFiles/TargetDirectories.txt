@@ -1,0 +1,3 @@
+/home/ramil/soika_test/build/CMakeFiles/rebuild_cache.dir
+/home/ramil/soika_test/build/CMakeFiles/estimate_points.dir
+/home/ramil/soika_test/build/CMakeFiles/edit_cache.dir

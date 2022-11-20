@@ -73,6 +73,9 @@
         "__tuple": "cpp",
         "ios": "cpp",
         "locale": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "unordered_set": "cpp",
+        "bit": "cpp",
+        "core": "cpp"
     }
 }
